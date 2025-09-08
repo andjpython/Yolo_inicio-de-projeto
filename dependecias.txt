@@ -1,0 +1,3 @@
+"python man.py --source 0 --show" ---> ativar a web can
+"python man.py --source ".\teste.mp4" --show --vid-stride 2" Abrir o video
+"python man.py --source ".\bus.jpg" --show"-----> Salvar imagem
